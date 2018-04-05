@@ -1,6 +1,6 @@
 All,全部,module,Magento_AdminGws,
 None,無,module,Magento_AdminGws,
-Allowed Scopes,允許的范圍,module,Magento_AdminGws,
+Allowed Scopes,允許的範圍,module,Magento_AdminGws,
 You need more permissions to delete this item(s): %1.,你需要更高的權限來刪除此項目：%1。,module,Magento_AdminGws,
 You need more permissions to apply some of the rule updates.,你需要更高的權限應用一些規則的更新。,module,Magento_AdminGws,
 Please assign this entity to a store view.,請指定這個店鋪視圖。,module,Magento_AdminGws,
